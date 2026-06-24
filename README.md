@@ -33,7 +33,7 @@ Key analyses performed:
 - High-value claim identification
 
 ### View SQL Scripts
-- [View SQL queries](./SQL/healthcare_queries.sql)
+- [View SQL queries](SQL/healthcare_queries.sql)
 
 ## Dashboard Features
 ### KPIs
@@ -60,6 +60,6 @@ Key analyses performed:
 
 ## Dashboard Preview
 <img width="991" height="557" alt="image" src="https://github.com/user-attachments/assets/8ef67b35-40b7-45fc-b913-7701b3e9c979" />
-![Dashboard](Screenshots/dashboard.png)
+
 
 
