@@ -19,7 +19,7 @@ The project contains:
 - Member Enrollment Data
 - Eligibility Data
 - Claims Data
-- <a herf="https://github.com/aakanksham9018-gihub/healthcare-insurance-analytics/blob/main/Dataset%20-%20Excel.xlsx">Dataset</a>
+- <a href="https://github.com/aakanksham9018-gihub/healthcare-insurance-analytics/blob/main/Dataset%20-%20Excel.xlsx">Dataset</a>
 
 ## SQL Analysis
 Key analyses performed:
@@ -46,8 +46,6 @@ Key analyses performed:
 - Monthly Claims Trend
 - Hospital-wise Claim Amount
 
-- Dashboard interaction <a herf="">View Dashboard</a>
-
 ## Key Insights
 - Active members represent approximately 85% of total enrollment.
 - Gold Plan has the highest member enrollment.
@@ -55,6 +53,6 @@ Key analyses performed:
 - Approved claims account for the majority of submitted claims.
 
 ## Dashboard Preview
-![Healthcare Dashboard](Screenshots/Dashboard_screenshot.jpg)
+![Healthcare Insurance Analytics Dashboard](Screenshots/Dashboard_screenshot.jpg)
 
 
