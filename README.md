@@ -19,6 +19,7 @@ The project contains:
 - Member Enrollment Data
 - Eligibility Data
 - Claims Data
+  
 - <a href="https://github.com/aakanksham9018-gihub/healthcare-insurance-analytics/blob/main/Dataset%20-%20Excel.xlsx">Dataset</a>
 
 ## SQL Analysis
@@ -53,6 +54,6 @@ Key analyses performed:
 - Approved claims account for the majority of submitted claims.
 
 ## Dashboard Preview
-![Healthcare Insurance Analytics Dashboard](Screenshots/Dashboard_screenshot.jpg)
+![Healthcare Insurance Analytics Dashboard]([Screenshots/Dashboard_screenshot.jpg](https://github.com/aakanksham9018-gihub/healthcare-insurance-analytics/blob/main/Dashboard_screenshot.jpg))
 
 
