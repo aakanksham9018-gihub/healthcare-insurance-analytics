@@ -54,6 +54,7 @@ Key analyses performed:
 - Approved claims account for the majority of submitted claims.
 
 ## Dashboard Preview
-![Healthcare Insurance Analytics Dashboard]([Screenshots/Dashboard_screenshot.jpg](https://github.com/aakanksham9018-gihub/healthcare-insurance-analytics/blob/main/Dashboard_screenshot.jpg))
+<img width="991" height="557" alt="image" src="https://github.com/user-attachments/assets/8ef67b35-40b7-45fc-b913-7701b3e9c979" />
+
 
 
