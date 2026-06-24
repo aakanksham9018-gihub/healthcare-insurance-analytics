@@ -19,7 +19,6 @@ The project contains:
 - Member Enrollment Data
 - Eligibility Data
 - Claims Data
-  
 - <a href="https://github.com/aakanksham9018-gihub/healthcare-insurance-analytics/blob/main/Dataset%20-%20Excel.xlsx">Dataset</a>
 
 ## SQL Analysis
