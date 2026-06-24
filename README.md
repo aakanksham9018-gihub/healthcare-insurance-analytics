@@ -29,6 +29,7 @@ Key analyses performed:
 - Provider-wise claim amount analysis
 - Eligibility validation
 - Active vs inactive member analysis
+- [View SQL Scripts](SQL/healthcare_queries.sql)
 
 ## Dashboard Features
 ## KPIs
