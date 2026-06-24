@@ -55,5 +55,6 @@ Key analyses performed:
 - Approved claims account for the majority of submitted claims.
 
 ## Dashboard Preview
-(Screenshots/Dashboard screenshot.jpg)
+![Healthcare Dashboard](Screenshots/Dashboard_screenshot.jpg)
+
 
