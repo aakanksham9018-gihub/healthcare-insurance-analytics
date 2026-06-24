@@ -23,11 +23,14 @@ The project contains:
 
 ## SQL Analysis
 Key analyses performed:
-- Member-wise claim analysis
-- Claims status distribution
-- Provider-wise claim amount analysis
-- Eligibility validation
-- Active vs inactive member analysis
+- Member enrollment analysis  
+- Active vs inactive member analysis  
+- Claims status analysis  
+- Hospital-wise claim analysis  
+- Approval rate calculation  
+- Member-claims relationship analysis  
+- Eligibility validation  
+- High-value claim identification
 - [View SQL Scripts](SQL/healthcare_queries.sql)
 
 ## Dashboard Features
