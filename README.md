@@ -31,10 +31,12 @@ Key analyses performed:
 - Member-claims relationship analysis  
 - Eligibility validation  
 - High-value claim identification
-- [View SQL Scripts](SQL/healthcare_queries.sql)
+
+### View SQL Scripts
+- [View SQL queries](./SQL/healthcare_queries.sql)
 
 ## Dashboard Features
-## KPIs
+### KPIs
 - Total Members
 - Active Members
 - Inactive Members
@@ -42,7 +44,7 @@ Key analyses performed:
 - Approved Claim Amount
 - Total Claim Amount
 
-## Visualizations
+### Visualizations
 - Claims Status Distribution
 - Plan Type Distribution
 - Gender Distribution
@@ -58,6 +60,6 @@ Key analyses performed:
 
 ## Dashboard Preview
 <img width="991" height="557" alt="image" src="https://github.com/user-attachments/assets/8ef67b35-40b7-45fc-b913-7701b3e9c979" />
-
+![Dashboard](Screenshots/dashboard.png)
 
 
