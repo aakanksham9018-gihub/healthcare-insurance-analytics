@@ -33,7 +33,7 @@ Key analyses performed:
 - High-value claim identification
 
 ### View SQL Scripts
-- [View SQL queries](SQL/healthcare_queries.sql)
+- <a href="https://github.com/aakanksham9018-gihub/healthcare-insurance-analytics/blob/main/healthcare_queries.sql">View SQL queries</a>
 
 ## Dashboard Features
 ### KPIs
